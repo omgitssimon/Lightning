@@ -30,4 +30,5 @@ startX=(int)(Math.random()*1000); //for x to change places and not stay at the s
 startY=0;
 endX  =0;
 endY  =150;
+background(0); //create new lightning every time
 }
