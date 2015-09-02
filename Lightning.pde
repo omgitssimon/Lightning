@@ -8,7 +8,7 @@ void setup()
 	frameRate(150);
 	size(400,400);
 	background(0);
-	strokeWeight(10);
+	strokeWeight(5);
 	startX=300;
 	startY=0;
 }
